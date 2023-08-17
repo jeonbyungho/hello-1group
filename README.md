@@ -31,4 +31,5 @@ Updating ...
 > git branch
 * main
   testing
+// *  현 브런치임을 표시.
 ```
