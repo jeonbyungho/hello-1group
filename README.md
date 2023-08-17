@@ -6,7 +6,7 @@
 
 [🌐참고 링크](https://docs.github.com/ko/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/managing-teams-and-people-with-access-to-your-repository)
 
-![저장소 설정 메뉴](img\collaborators.jpg)
+![저장소 설정 메뉴](./img/collaborators.jpg)
 
 ## 브런치 생성
 
