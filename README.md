@@ -10,7 +10,7 @@
 
 ## 브런치 생성
 
-```git
+```
 > git branch testing
 ```
 
@@ -18,4 +18,10 @@
 ```
 > git checkout testing
 Switched to branch 'testing'
+```
+
+## 다른 브런치와 병합
+```
+> git merge testing
+Updating ...
 ```
