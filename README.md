@@ -25,3 +25,10 @@ Switched to branch 'testing'
 > git merge testing
 Updating ...
 ```
+
+## 브런치 목록 전체 보기
+```
+> git branch
+* main
+  testing
+```
