@@ -3,9 +3,9 @@
 [Git 공식 튜토리얼](https://git-scm.com/book/ko/v2)
 
 ## GitHub 우리 조 인원 초대해보기
-[🌐참고 링크](https://docs.github.com/ko/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
+[🌐개인 리포지토리에 협력자 초대](https://docs.github.com/ko/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
 
-[🌐참고 링크](https://docs.github.com/ko/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/managing-teams-and-people-with-access-to-your-repository)
+[🌐리포지토리에 액세스할 수 있는 팀 및 사용자 관리](https://docs.github.com/ko/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/managing-teams-and-people-with-access-to-your-repository)
 
 ![저장소 설정 메뉴](./img/collaborators.jpg)
 
