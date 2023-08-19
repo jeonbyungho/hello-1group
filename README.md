@@ -100,4 +100,4 @@ From https://github.com/jeonbyungho/hello-1group
 
 # 🐸Git hub에 파일 올리기
 
-## [링크](addfile.md)
+## [파일 올리기](addfile.md)
